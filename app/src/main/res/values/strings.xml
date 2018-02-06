@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NW7コードメーカー</string>
+
+    <!---->
+    <string name="banner_ad_unit_id">ca-app-pub-1882812461462801/9131995009</string>
+    <!---->
+    <!-- Test
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    -->
+
+    <string name="label_start_char">開始</string>
+    <string name="label_stop_char">終了</string>
+    <string name="label_number">数値</string>
+
+    <string name="caption_generator">作成</string>
+    <string name="caption_clear">クリア</string>
+    <string name="caption_increment">+1</string>
+
+    <string name="menu_all_clear">バーコードをすべて削除する</string>
+
+    <string name="title_all_clear">削除の確認</string>
+    <string name="message_all_clear">作成したバーコードをすべて削除します。よろしいですか？</string>
+    <string name="caption_yes">はい</string>
+    <string name="caption_no">いいえ</string>
+
+    <string-array name="start_char">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+</resources>
